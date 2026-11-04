@@ -17,19 +17,21 @@ What started as a simple spreadsheet for tracking income and expenses evolved in
 
 ### Financial Dashboard
 
-![Financial Dashboard](screenshots/dashboard.png)
+![Financial Dashboard](screenshots/dashboard-1.jpg)
+
+![Financial Dashboard](screenshots/dashboard-2.jpg)
 
 ### Transaction Management
 
-![Transaction Management](screenshots/transactions.png)
+![Transaction Management](screenshots/transactions.jpg)
 
 ### VBA Transaction Editor
 
-![VBA Transaction Editor](screenshots/transaction-editor.png)
+![VBA Transaction Editor](screenshots/transaction-editor.jpg)
 
 ### Power Query Automation
 
-![Power Query Editor](screenshots/power-query.png)
+![Power Query Editor](screenshots/power-query.jpg)
 
 ## Technologies
 
