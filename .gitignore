@@ -1,0 +1,16 @@
+# Excel temporary files
+~$*
+*.tmp
+*.bak
+
+# Python files
+__pycache__/
+.venv/
+
+# Local/private data
+private_data/
+real_bank_statements/
+.env
+
+# Editor settings
+.vscode/
